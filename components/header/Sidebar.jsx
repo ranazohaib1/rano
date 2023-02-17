@@ -87,7 +87,7 @@ const Sidebar = () => {
 								<div
 									className="main"
 									style={{
-										backgroundImage: "url(img/hero/zohaib_profile.jpg)"
+										backgroundImage: "url(img/hero/rano.jpg)"
 									}}
 								></div>
 							</div>
