@@ -70,7 +70,7 @@ const About = () => {
 							<div
 								className="main"
 								style={{
-									backgroundImage: "url(img/hero/zohaib_profile.jpg)"
+									backgroundImage: "url(img/hero/rano_about.jpg)"
 								}}
 								data-aos="fade-left"
 								data-aos-duration="1200"

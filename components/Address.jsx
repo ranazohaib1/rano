@@ -23,7 +23,7 @@ const Address = () => {
 			info: (
 				<>
 					<li>
-						<a href="mailto:ib-themes21@gmail.com">zohaib.dilshad.1@gmail.com</a>
+						<a href="mailto:ib-themes21@gmail.com">rano@gmail.com</a>
 					</li>
 					{/* <li>
 						<a href="mailto:ib-themes21@gmail.com">example@support.com</a>
@@ -54,10 +54,18 @@ const Address = () => {
 	return (
 		<ul className="wrapper">
 			{addressContent.map((item) => (
-				<li data-aos="fade-right" data-aos-duration="1200" data-aos-delay={item.animDelay} key={item.id}>
+				<li
+					data-aos="fade-right"
+					data-aos-duration="1200"
+					data-aos-delay={item.animDelay}
+					key={item.id}
+				>
 					<div className="list_inner">
 						<div className="icon">
-							<img src={item.iconImg} alt="icon" />
+							<img
+								src={item.iconImg}
+								alt="icon"
+							/>
 						</div>
 						{/* End icon */}
 						<div className="content">

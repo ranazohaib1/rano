@@ -93,7 +93,7 @@ const EdinaHomeSidebar = () => {
 			</div> */}
 			{/* End Services */}
 
-			<div
+			{/* <div
 				className="edina_tm_portfolio"
 				id="portfolio"
 			>
@@ -102,10 +102,9 @@ const EdinaHomeSidebar = () => {
 						<h3>Portfolio</h3>
 						<p>{`The following are some of the projects I have worked on and are live today`}</p>
 					</div>
-					{/* End edian_tm_title */}
 					<Portfolio />
 				</div>
-			</div>
+			</div> */}
 			{/* End Portfolio */}
 
 			{/* <div
