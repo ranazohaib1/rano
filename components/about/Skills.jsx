@@ -12,11 +12,11 @@ const skillsContent = [
 	{
 		name: "Double hand slap",
 		skillPercent: "90"
+	},
+	{
+		name: "Kicks",
+		skillPercent: "95"
 	}
-	// {
-	// 	name: "Redux ToolKit(RTK)",
-	// 	skillPercent: "95"
-	// },
 	// {
 	// 	name: "AWS Amplify",
 	// 	skillPercent: "90"
